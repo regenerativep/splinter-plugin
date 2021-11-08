@@ -1,0 +1,6 @@
+main: io.github.regenerativep.splinter.Splinter
+name: Splinter
+author: regenerativep
+version: 1.0-SNAPSHOT
+description: Splinter server-side plugin
+api-version: 1.17
